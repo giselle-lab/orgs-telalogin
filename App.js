@@ -86,3 +86,6 @@ const styles = StyleSheet.create({
  }
 
 });
+
+// tutorial: https://code.tutsplus.com/tutorials/common-react-native-app-layouts-login-page--cms-27639
+// navegação: https://blog.rocketseat.com.br/react-navigation-react-native/
